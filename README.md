@@ -23,6 +23,6 @@ This project consists a pretrainable YOLOv3 with the associated weight reader[ci
 4) Execute main.py
 
 ## Acknowledgments
-[1] Debesh Jha u. a. „Kvasir-SEG: A Segmented Polyp Dataset“. In: 2020, S. 451–462.
-[2] experiencor. keras-yolo3. 2018. URL: https : / / github.com/experiencor/keras-yolo3.
+- [1] Debesh Jha u. a. „Kvasir-SEG: A Segmented Polyp Dataset“. In: 2020, S. 451–462.
+- [2] experiencor. keras-yolo3. 2018. URL: https : / / github.com/experiencor/keras-yolo3.
 
