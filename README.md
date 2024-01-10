@@ -1,10 +1,10 @@
 # YOLOv3_Transfer_Learning
 
 ## Project Description
-This repository contains a transfer learning approach of a modified Yolov3 network for object detection using the KVASIR SEG dataset[1].
+This repository contains a transfer learning approach of a modified Yolov3 network for object detection using the KVASIR SEG dataset [1].
 
 ## About The Project
-This project consists a pretrainable YOLOv3 with the associated weight reader[cite]. 
+This project consists a pretrainable YOLOv3 with the associated weight reader[2]. 
 
 ## Built With
 - os
